@@ -31,7 +31,7 @@
 		
 */
 			/*
-				2014-05-25 tab change park jae Hyun1
+				2014-05-25 tab change park jae Hyun
 				TODO
 					1.현재 정확한 타입검사가 부족하기 때문에, 정규식을 이용한 
 						DOM 요소의 특정한 값들을 검사하는 것이 필요로 합니다.
